@@ -1,4 +1,3 @@
-```markdown
 # Personal Portfolio Chatbot
 
 An AI-powered chatbot for my portfolio website that answers questions about my background, skills, and projects.
