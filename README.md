@@ -59,3 +59,5 @@ An AI-powered chatbot for my portfolio website that answers questions about my b
 ## License
 
 MIT
+# munchbot
+A Personal AI Chatbot Assistant that answers queries about me :0
